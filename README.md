@@ -1,0 +1,1 @@
+# geometric_progression_generator
